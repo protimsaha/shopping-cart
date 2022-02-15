@@ -1,5 +1,5 @@
 function updateCaseNumber(product, price, isIncreasing) {
-    let caseDisplay = document.getElementById(product + '-output')
+    let productDisplay = document.getElementById(product + '-output')
     let casenumber = caseDisplay.value;
     if (isIncreasing == true) {
         caseDisplay.value = Number(casenumber) + 1;
