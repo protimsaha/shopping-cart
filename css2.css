@@ -1,0 +1,20 @@
+.bg-1{
+    background-color:  #F6F5FA;
+}
+.cart{
+    background-color: white;
+    height: 250px;
+}
+.product-1{
+    width: 200px;
+}
+#phone-output{
+    width: 100px;
+}
+#case1-output{
+    width: 100px;
+}
+.form-control{
+    font-size: 20px;
+    font-weight: 700;
+}
